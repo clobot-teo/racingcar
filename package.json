@@ -1,0 +1,21 @@
+{
+  "name": "racing_car",
+  "version": "1.0.0",
+  "description": "Functional Programming",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "author": "teo",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "eslint": "^8.37.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3"
+  }
+}
